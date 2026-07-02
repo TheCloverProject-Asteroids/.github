@@ -9,6 +9,7 @@ This guide will help you **set up, sync, and build The Clover Project** for **No
 ## Manifest
    
    [TheCloverProject_Android-16_QPR2](https://github.com/TheCloverProject-Asteroids/android_manifest)
+   
    [TheCloverProject_Android-17_QPR0](https://github.com/TheCloverProject-Asteroids/android_manifest/tree/17-staging)
 
 Use the guide available above manifest.
