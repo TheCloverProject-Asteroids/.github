@@ -1,16 +1,25 @@
 
-# ⚡ The Clover Project For Asteroids
+# ⚡ The Clover Project/PixelOS For Asteroids
 
 An Android Operating System Based On AOSP.  
 This guide will help you **set up, sync, and build The Clover Project** for **Nothing 3A / PRO**.  
 
 ---
 
-## Manifest
+## Manifest 
+
+### Clover Project:
    
    [TheCloverProject_Android-16_QPR2](https://github.com/TheCloverProject-Asteroids/android_manifest)
    
    [TheCloverProject_Android-17_QPR0](https://github.com/TheCloverProject-Asteroids/android_manifest/tree/17-qpr0)
+
+---
+
+### PixelOS:
+
+[PixelOS_Android-17_QPR0](https://github.com/TheCloverProject-Asteroids/android_manifest/tree/seventeen)
+
 
 Use the guide available above manifest.
 
